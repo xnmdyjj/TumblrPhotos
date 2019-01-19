@@ -201,6 +201,19 @@
 			path = Manager;
 			sourceTree = "<group>";
 		};
+		022F953321F342490096EB67 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				0204810921BD37DF008E85DD /* HomeViewController.swift */,
+				0204810B21BD3937008E85DD /* TumblrChildViewController.swift */,
+				024FB07021BFDFA800475FDB /* BlogViewController.swift */,
+				029E319D21C113B5008961D4 /* SettingTableViewController.swift */,
+				022E6B3421C25851004E5137 /* FavoriteTableViewController.swift */,
+				022E6B3A21C2C592004E5137 /* LimitTableViewController.swift */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
 		029E319621C0A856008961D4 /* Extention */ = {
 			isa = PBXGroup;
 			children = (
@@ -233,6 +246,7 @@
 		02F0215B21BBBBF900F03A01 /* tbrBrowser */ = {
 			isa = PBXGroup;
 			children = (
+				022F953321F342490096EB67 /* Controller */,
 				022E6B3121C251ED004E5137 /* Manager */,
 				029E319621C0A856008961D4 /* Extention */,
 				02294D7A21BEF06B00E58B55 /* Config */,
@@ -242,12 +256,6 @@
 				02294D6121BE863B00E58B55 /* Mode */,
 				02F0218421BBC83E00F03A01 /* Network */,
 				02F0215C21BBBBF900F03A01 /* AppDelegate.swift */,
-				0204810921BD37DF008E85DD /* HomeViewController.swift */,
-				0204810B21BD3937008E85DD /* TumblrChildViewController.swift */,
-				024FB07021BFDFA800475FDB /* BlogViewController.swift */,
-				029E319D21C113B5008961D4 /* SettingTableViewController.swift */,
-				022E6B3421C25851004E5137 /* FavoriteTableViewController.swift */,
-				022E6B3A21C2C592004E5137 /* LimitTableViewController.swift */,
 				02F0216021BBBBF900F03A01 /* Main.storyboard */,
 				02F0216321BBBBFA00F03A01 /* Assets.xcassets */,
 				02F0216521BBBBFA00F03A01 /* LaunchScreen.storyboard */,
