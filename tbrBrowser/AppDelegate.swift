@@ -80,7 +80,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         guard let ss_adder = serverInfo["host"] else {
             return
         }
-        let ss_port = 8581
+        let ss_port = 8888
         guard let password = serverInfo["password"] else {
             return
         }
