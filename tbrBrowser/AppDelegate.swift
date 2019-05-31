@@ -67,7 +67,6 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     
     let proxyServerInfo = [["host": "172.105.214.28", "password":"xyyWAvGJOUL7LrE2"],
                            ["host": "66.42.108.130", "password":"7FdDYNT2ze15OZrP"],
-                           ["host": "23.83.231.180", "password":"t4nCCGgStnd8EB71"],
                         ["host": "149.28.11.14", "password":"gik0sUlIYqnJb1AS"],
                         ["host": "66.42.59.151", "password":"s7TVe6YAzZzXT3H7"]]
     
